@@ -1,1 +1,1 @@
-A script that displays a confused smiley
+A script that prints “Hello, World”
